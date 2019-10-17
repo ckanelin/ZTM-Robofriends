@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
-import SearchBar from './SearchBar';
-import CardList from './CardList';
+import SearchBar from '../components/SearchBar';
+import CardList from '../components/CardList';
 import './App.css';
 
 class App extends Component{
