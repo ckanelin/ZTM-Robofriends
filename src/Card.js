@@ -1,13 +1,13 @@
 import React from 'react';
 import 'tachyons';
 
-const Card = () => {
+const Card = ({id, name, email}) => {
 	return(
 		<div className='tc bg-light-pink washed-blue dib br3 pa3 ma2 grow bw2 shadow-5'>
-			<img src={'https://robohash.org/0?200x200'} alt='...'></img>
+			<img src={`https://robohash.org/${id}?200x200`} alt='...'></img>
 			<div>
-				<h2>Candy Lin</h2>
-				<p>lincandy.yite@gmail.com</p>
+				<h2>{name}</h2>
+				<p>{email}</p>
 			</div>
 		</div>
 	);
