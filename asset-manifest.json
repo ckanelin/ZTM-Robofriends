@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ZTM-Robofriends/static/css/main.53e917d4.chunk.css",
-    "main.js": "/ZTM-Robofriends/static/js/main.3025dc95.chunk.js",
-    "main.js.map": "/ZTM-Robofriends/static/js/main.3025dc95.chunk.js.map",
+    "main.css": "/ZTM-Robofriends/static/css/main.502ad84e.chunk.css",
+    "main.js": "/ZTM-Robofriends/static/js/main.13ead79e.chunk.js",
+    "main.js.map": "/ZTM-Robofriends/static/js/main.13ead79e.chunk.js.map",
     "runtime-main.js": "/ZTM-Robofriends/static/js/runtime-main.ab1af64e.js",
     "runtime-main.js.map": "/ZTM-Robofriends/static/js/runtime-main.ab1af64e.js.map",
     "static/css/2.eb45ad44.chunk.css": "/ZTM-Robofriends/static/css/2.eb45ad44.chunk.css",
     "static/js/2.e6eb871a.chunk.js": "/ZTM-Robofriends/static/js/2.e6eb871a.chunk.js",
     "static/js/2.e6eb871a.chunk.js.map": "/ZTM-Robofriends/static/js/2.e6eb871a.chunk.js.map",
     "index.html": "/ZTM-Robofriends/index.html",
-    "precache-manifest.801702a818cf95602919d9b828d32bfa.js": "/ZTM-Robofriends/precache-manifest.801702a818cf95602919d9b828d32bfa.js",
+    "precache-manifest.276d5a513f00f4768874928b0b50993b.js": "/ZTM-Robofriends/precache-manifest.276d5a513f00f4768874928b0b50993b.js",
     "service-worker.js": "/ZTM-Robofriends/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/ZTM-Robofriends/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.53e917d4.chunk.css.map": "/ZTM-Robofriends/static/css/main.53e917d4.chunk.css.map",
+    "static/css/main.502ad84e.chunk.css.map": "/ZTM-Robofriends/static/css/main.502ad84e.chunk.css.map",
     "static/media/App.css": "/ZTM-Robofriends/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.ab1af64e.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.e6eb871a.chunk.js",
-    "static/css/main.53e917d4.chunk.css",
-    "static/js/main.3025dc95.chunk.js"
+    "static/css/main.502ad84e.chunk.css",
+    "static/js/main.13ead79e.chunk.js"
   ]
 }
